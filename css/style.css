@@ -1,0 +1,9 @@
+body {
+    background-color: #E9ECEF;
+}
+.list {
+    list-style-position:inside;
+}
+.purple {
+    color:blueviolet;
+}
